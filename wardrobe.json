@@ -1,0 +1,482 @@
+{
+  "IMG_6870-pale-crewneck-tee.png": {
+    "name": "Pale crewneck tee",
+    "color": "White / pale grey",
+    "brand": "",
+    "type": "T-shirt",
+    "size": "L",
+    "notes": ""
+  },
+  "reference-plain-white-crewneck-tee.png": {
+    "name": "Plain white crewneck tee",
+    "color": "White",
+    "brand": "",
+    "type": "To buy",
+    "size": "L",
+    "notes": "Reference image, not owned yet"
+  },
+  "reference-plain-black-crewneck-tee.png": {
+    "name": "Plain black crewneck tee",
+    "color": "Black",
+    "brand": "",
+    "type": "To buy",
+    "size": "L",
+    "notes": "Reference image, not owned yet"
+  },
+  "IMG_6881-light-blue-graphic-tee.png": {
+    "name": "Graphic tee",
+    "color": "Light blue",
+    "brand": "",
+    "type": "T-shirt",
+    "size": "L",
+    "notes": "Home wear"
+  },
+  "IMG_6912-gray-waffle-tank.png": {
+    "name": "Waffle tank",
+    "color": "Grey",
+    "brand": "",
+    "type": "Tank",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6915-black-jersey-tank.png": {
+    "name": "Jersey tank",
+    "color": "Black",
+    "brand": "",
+    "type": "Tank",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6874-light-grey-henley.png": {
+    "name": "Henley, long sleeve",
+    "color": "Light grey",
+    "brand": "",
+    "type": "Long-sleeve top",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6876-charcoal-knit-raglan.png": {
+    "name": "Knit raglan, long sleeve",
+    "color": "Olive green",
+    "brand": "",
+    "type": "Long-sleeve top",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6877-slate-blue-textured-crew.png": {
+    "name": "Textured crew, long sleeve",
+    "color": "Slate blue",
+    "brand": "",
+    "type": "Long-sleeve top",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6881-dark-brown-raglan.png": {
+    "name": "Raglan, long sleeve",
+    "color": "Dark brown",
+    "brand": "",
+    "type": "Long-sleeve top",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6882-olive-long-sleeve-crew.png": {
+    "name": "Crew, long sleeve",
+    "color": "Olive",
+    "brand": "",
+    "type": "Long-sleeve top",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6878-beige-ribbed-split-collar.png": {
+    "name": "Ribbed split-collar knit",
+    "color": "Beige",
+    "brand": "",
+    "type": "Long-sleeve top",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6871-grey-quarter-zip.png": {
+    "name": "Quarter-zip sweatshirt",
+    "color": "Grey",
+    "brand": "",
+    "type": "Sweatshirt",
+    "size": "L",
+    "notes": "Chest logo"
+  },
+  "IMG_6872-burgundy-crew-sweatshirt.png": {
+    "name": "Crew sweatshirt",
+    "color": "Burgundy",
+    "brand": "",
+    "type": "Sweatshirt",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6873-colorblock-waffle-hoodie.png": {
+    "name": "Colour-block waffle hoodie",
+    "color": "Black / charcoal",
+    "brand": "",
+    "type": "Sweatshirt",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6900-cream-snap-pullover.png": {
+    "name": "Snap pullover",
+    "color": "Cream",
+    "brand": "",
+    "type": "Sweatshirt",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6884-navy-dress-shirt.png": {
+    "name": "Dress shirt",
+    "color": "Navy",
+    "brand": "",
+    "type": "Shirt",
+    "size": "L",
+    "notes": "Image came out too long; regenerate"
+  },
+  "IMG_6881-blue-utility-shirt.png": {
+    "name": "Utility shirt",
+    "color": "Blue",
+    "brand": "",
+    "type": "Shirt",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6910-off-white-long-sleeve-shirt.png": {
+    "name": "Long-sleeve shirt",
+    "color": "Off-white",
+    "brand": "",
+    "type": "Shirt",
+    "size": "L",
+    "notes": "Needs ironing"
+  },
+  "IMG_6887-olive-long-sleeve-shirt.png": {
+    "name": "Long-sleeve shirt",
+    "color": "Olive",
+    "brand": "",
+    "type": "Shirt",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6885-olive-short-sleeve-shirt.png": {
+    "name": "Short-sleeve shirt",
+    "color": "Olive green",
+    "brand": "",
+    "type": "Shirt",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6889-beige-striped-seersucker-shirt.png": {
+    "name": "Seersucker shirt, short sleeve",
+    "color": "Beige stripe",
+    "brand": "",
+    "type": "Shirt",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6903-beige-cardigan.png": {
+    "name": "Button cardigan",
+    "color": "Tan",
+    "brand": "Banana Republic",
+    "type": "Layer / jacket",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6908-moose-creek-chamois-overshirt.png": {
+    "name": "Chamois overshirt",
+    "color": "Tan",
+    "brand": "Moose Creek",
+    "type": "Layer / jacket",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6901-stone-textured-snap-shirt-jacket.png": {
+    "name": "Textured snap shirt-jacket",
+    "color": "Stone",
+    "brand": "",
+    "type": "Layer / jacket",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6891-dark-full-zip-knit-jacket.png": {
+    "name": "Full-zip knit jacket",
+    "color": "Black",
+    "brand": "",
+    "type": "Layer / jacket",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6907-splatter-snap-overshirt.png": {
+    "name": "Splatter-print snap overshirt",
+    "color": "Cream, multicolour",
+    "brand": "",
+    "type": "Layer / jacket",
+    "size": "L",
+    "notes": "Statement piece"
+  },
+  "IMG_6902-rust-long-bomber.png": {
+    "name": "Long bomber",
+    "color": "Rust red",
+    "brand": "",
+    "type": "Layer / jacket",
+    "size": "L",
+    "notes": "Image is redder than the real one"
+  },
+  "IMG_6905-olive-mango-snap-jacket.png": {
+    "name": "Snap jacket",
+    "color": "Olive",
+    "brand": "Mango",
+    "type": "Layer / jacket",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6906-dark-olive-hooded-parka.png": {
+    "name": "Hooded rain parka",
+    "color": "Dark olive",
+    "brand": "",
+    "type": "Layer / jacket",
+    "size": "L",
+    "notes": ""
+  },
+  "IMG_6926-light-gray-jeans.png": {
+    "name": "Straight jeans",
+    "color": "Light grey",
+    "brand": "",
+    "type": "Jeans",
+    "size": "32",
+    "notes": "Favourite cut"
+  },
+  "IMG_6937-american-eagle-pale-blue-jeans.png": {
+    "name": "Jeans",
+    "color": "Pale blue",
+    "brand": "American Eagle",
+    "type": "Jeans",
+    "size": "31 x 32",
+    "notes": ""
+  },
+  "IMG_6936-guess-mid-wash-jeans.png": {
+    "name": "Jeans",
+    "color": "Mid-light blue",
+    "brand": "Guess",
+    "type": "Jeans",
+    "size": "32",
+    "notes": ""
+  },
+  "IMG_6928-gap-dark-blue-skinny-jeans.png": {
+    "name": "Skinny jeans",
+    "color": "Dark blue",
+    "brand": "Gap",
+    "type": "Jeans",
+    "size": "32 x 30",
+    "notes": "Short: wear with boots"
+  },
+  "IMG_6927-levis-513-black-raw-hem.png": {
+    "name": "513 jeans, raw hem",
+    "color": "Faded black",
+    "brand": "Levi's",
+    "type": "Jeans",
+    "size": "32",
+    "notes": "Cropped length"
+  },
+  "IMG_6931-michael-kors-parker-black-pants.png": {
+    "name": "Parker slim pants",
+    "color": "Black",
+    "brand": "Michael Kors",
+    "type": "Pants",
+    "size": "33 x 32",
+    "notes": ""
+  },
+  "IMG_6930-rwco-black-slim-pants.png": {
+    "name": "Slim pants",
+    "color": "Black",
+    "brand": "RW&Co",
+    "type": "Pants",
+    "size": "34 x 32",
+    "notes": "Waist too big"
+  },
+  "IMG_6932-navy-chinos.png": {
+    "name": "Chinos",
+    "color": "Navy",
+    "brand": "",
+    "type": "Pants",
+    "size": "",
+    "notes": ""
+  },
+  "IMG_6920-navy-dress-trousers.png": {
+    "name": "Dress trousers",
+    "color": "Navy",
+    "brand": "",
+    "type": "Pants",
+    "size": "",
+    "notes": ""
+  },
+  "IMG_6922-olive-khaki-cargo-pants.png": {
+    "name": "Cargo pants",
+    "color": "Brown khaki",
+    "brand": "",
+    "type": "Pants",
+    "size": "",
+    "notes": ""
+  },
+  "IMG_6938-charcoal-joggers.png": {
+    "name": "Joggers",
+    "color": "Charcoal",
+    "brand": "",
+    "type": "Pants",
+    "size": "",
+    "notes": ""
+  },
+  "IMG_6913-khaki-elastic-waist-shorts.png": {
+    "name": "Elastic-waist shorts",
+    "color": "Brown khaki",
+    "brand": "",
+    "type": "Shorts",
+    "size": "",
+    "notes": ""
+  },
+  "footwear-dark-suede-chelsea-boots.png": {
+    "name": "Suede Chelsea boots",
+    "color": "Black",
+    "brand": "",
+    "type": "Shoes",
+    "size": "",
+    "notes": "Confirm colour: image shows dark brown"
+  },
+  "footwear-dark-brown-leather-casual-lace-ups.png": {
+    "name": "Leather casual lace-ups",
+    "color": "Dark brown",
+    "brand": "",
+    "type": "Shoes",
+    "size": "",
+    "notes": ""
+  },
+  "footwear-black-leather-dress-shoes.png": {
+    "name": "Leather dress shoes",
+    "color": "Black",
+    "brand": "",
+    "type": "Shoes",
+    "size": "",
+    "notes": ""
+  },
+  "footwear-tan-leather-cap-toe-dress-shoes.png": {
+    "name": "Cap-toe dress shoes",
+    "color": "Tan",
+    "brand": "",
+    "type": "Shoes",
+    "size": "",
+    "notes": "Insole needs replacing"
+  },
+  "footwear-cream-mount-to-coast-sneakers.png": {
+    "name": "Sneakers",
+    "color": "Cream",
+    "brand": "Mount to Coast",
+    "type": "Shoes",
+    "size": "",
+    "notes": ""
+  },
+  "footwear-gray-under-armour-sneakers.png": {
+    "name": "Sneakers",
+    "color": "Grey",
+    "brand": "Under Armour",
+    "type": "Shoes",
+    "size": "",
+    "notes": ""
+  },
+  "IMG_6917-navy-plaid-fringed-scarf.png": {
+    "name": "Plaid fringed scarf",
+    "color": "Navy / white",
+    "brand": "",
+    "type": "Scarf",
+    "size": "",
+    "notes": ""
+  },
+  "IMG_6917-grey-cable-scarf.png": {
+    "name": "Cable-knit scarf",
+    "color": "Grey",
+    "brand": "",
+    "type": "Scarf",
+    "size": "",
+    "notes": ""
+  },
+  "IMG_6917-black-red-stripe-scarf.png": {
+    "name": "Striped scarf",
+    "color": "Black / red",
+    "brand": "",
+    "type": "Scarf",
+    "size": "",
+    "notes": ""
+  },
+  "IMG_6917-plain-charcoal-scarf.png": {
+    "name": "Plain scarf",
+    "color": "Charcoal",
+    "brand": "",
+    "type": "Scarf",
+    "size": "",
+    "notes": ""
+  },
+  "reference-01-white-leather-sneakers.png": {
+    "name": "White leather sneakers",
+    "color": "White",
+    "brand": "",
+    "type": "To buy",
+    "size": "",
+    "notes": "Reference image, not owned yet"
+  },
+  "reference-02-black-textured-overshirt.png": {
+    "name": "Black textured overshirt",
+    "color": "Black",
+    "brand": "",
+    "type": "To buy",
+    "size": "L",
+    "notes": "Reference image, not owned yet"
+  },
+  "reference-03-dark-indigo-straight-jeans.png": {
+    "name": "Dark indigo straight jeans",
+    "color": "Dark indigo",
+    "brand": "",
+    "type": "To buy",
+    "size": "32 x 32",
+    "notes": "Reference image, not owned yet"
+  },
+  "reference-04-plain-crewneck-tees.png": {
+    "name": "Plain crewneck tees",
+    "color": "White, black",
+    "brand": "",
+    "type": "To buy",
+    "size": "L",
+    "notes": "Reference image, not owned yet"
+  },
+  "reference-05-plaid-flannel-shirt.png": {
+    "name": "Plaid flannel shirt",
+    "color": "Navy / green",
+    "brand": "",
+    "type": "To buy",
+    "size": "L",
+    "notes": "Reference image, not owned yet"
+  },
+  "reference-06-thick-white-long-sleeve-tee.png": {
+    "name": "Thick white long-sleeve tee",
+    "color": "White",
+    "brand": "",
+    "type": "To buy",
+    "size": "L",
+    "notes": "Reference image, not owned yet"
+  },
+  "reference-07-black-leather-jacket.png": {
+    "name": "Black leather jacket",
+    "color": "Black",
+    "brand": "",
+    "type": "To buy",
+    "size": "L",
+    "notes": "Reference image, not owned yet"
+  },
+  "reference-08-suede-protector-spray.png": {
+    "name": "Suede protector spray",
+    "color": "",
+    "brand": "",
+    "type": "To buy",
+    "size": "",
+    "notes": "Reference image, not owned yet"
+  }
+}

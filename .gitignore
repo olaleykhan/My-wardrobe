@@ -1,0 +1,8 @@
+﻿node_modules
+dist
+
+# Raw photos and working images stay on this PC; the site only needs results/
+/photos/
+/product-images/
+/*.jpg
+/*.png
